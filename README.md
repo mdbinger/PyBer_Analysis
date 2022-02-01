@@ -6,7 +6,7 @@ We are starting a brand new Data Analytics job at a ride-share company known as 
 
 
 ## Results
-### A description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+#### A description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
 As shown in the image below, urban cities had the highest totals of rides, drivers, and fare amounts, while rural had the lowest totals. Conversely, when we look at averages (Average Fares per Ride and Average Fare per Driver), rural cities ranked highest and urban cities ranked lowest. Suburban cities fell in the middle of rural and urban cities in every category. 
 
@@ -18,7 +18,7 @@ The multiple-line chart below visually shows the discrepancies between each city
 
  
 ## Summary
-### Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+#### Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
 Based on these results, I would recommend three potential strategies for addressing the disparities among the city types.
 
